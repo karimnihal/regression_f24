@@ -20,5 +20,3 @@ __pycache__/
 # Ignore coverage reports
 coverage/
 
-#Ignore pdf
-.pdf
